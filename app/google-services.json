@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "610010939981",
+    "firebase_url": "https://playit-2728f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "playit-2728f",
+    "storage_bucket": "playit-2728f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610010939981:android:c842d7b6ae228543aa9204",
+        "android_client_info": {
+          "package_name": "com.example.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610010939981-qk8k4s0i77maqnnasr23ohkabkmcr2d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgJZ2HfptY84ffS-k66MIMJIqA5iyC_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610010939981-qk8k4s0i77maqnnasr23ohkabkmcr2d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610010939981:android:7facb9717d0a4668aa9204",
+        "android_client_info": {
+          "package_name": "com.example.youtubeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610010939981-qk8k4s0i77maqnnasr23ohkabkmcr2d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgJZ2HfptY84ffS-k66MIMJIqA5iyC_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610010939981-qk8k4s0i77maqnnasr23ohkabkmcr2d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
